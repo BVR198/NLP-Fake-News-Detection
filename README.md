@@ -36,10 +36,10 @@ Out of these models I choose Random Forest Classifier as it performed good and h
 
 LIBRARIES NEEDED
 
-scikit-learn
-nltk
-wordcloud
-matplotlib
-seaborn
-pandas
-numpy
+* scikit-learn
+* nltk
+* wordcloud
+* matplotlib
+* seaborn
+* pandas
+* numpy
