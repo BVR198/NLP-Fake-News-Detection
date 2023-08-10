@@ -44,3 +44,12 @@ LIBRARIES NEEDED
 * `seaborn`
 * `pandas`
 * `numpy`
+
+## `Results`
+* Accuracy_score for Rnadom Forest :  93.9 %
+* Accuracy_score for SVM :  93.3 %
+* Accuracy_score for Decision Tree:  92 %
+* Accuracy_score for XGBoost :  92.58 %
+* Accuracy_score for MultinomialNB :  86.79 % 
+
+## `Random Forest algorithm performing very Well compared to other with accuracy ~ 94 %`
