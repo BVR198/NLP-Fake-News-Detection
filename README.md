@@ -19,8 +19,9 @@ The project mainly focuses on handling huge amounts of text data, extracting mea
 For preprocessing I have used methods like
 * Lower casing
 * Removed stopwords,puntuations
-* Performed Stemming(Finding root words like for functioning root word will be function) using nltk's PorterStemmer
-* Created sparse matrix using CountVectorizer for vocab size of 6000 features using bag of words and n-grams to extract more details
+* Performed `Stemming` (Finding root words like for functioning root word will be function) using `nltk's PorterStemmer`
+* Created sparse matrix using `CountVectorizer` for vocab size of 6000 features using bag of words and n-grams to extract more details
+  
 Train/Test Validation splits
 Finally trained models, tuned them to make final predictions
 MODELS USED
