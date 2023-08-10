@@ -8,11 +8,11 @@ DATASET
 
 The Fake News Dataset is from Kaggle
 
-DESCRIPTION
+`DESCRIPTION`
 
 The project mainly focuses on handling huge amounts of text data, extracting meaningful information from it using methods like lemmatization, stemming, tokenization and soo much more and then passing all these informations as features to a model and making a prediction whether the news is reliable(0) or unreliable(1)
 
-WHAT I HAD DONE
+`WHAT I HAD DONE`
 
 * The very first step is doing an exploratory data analysis, in which I explored the relationship between labels and features
 * Compared the data before and after preprocessing, significantly reduced less informative data like punctuations and stopwords
