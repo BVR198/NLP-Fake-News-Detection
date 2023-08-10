@@ -33,6 +33,7 @@ I have used these models as they perform good classification of text data
 * Naive Bayes- MultinomialNB
 
 Out of these models I choose Random Forest Classifier as it performed good and handle larges streams of text data very well
+
 LIBRARIES NEEDED
 
 scikit-learn
