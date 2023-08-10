@@ -14,13 +14,13 @@ The project mainly focuses on handling huge amounts of text data, extracting mea
 
 WHAT I HAD DONE
 
-The very first step is doing an exploratory data analysis, in which I explored the relationship between labels and features
-Compared the data before and after preprocessing, significantly reduced less informative data like punctuations and stopwords
+* The very first step is doing an exploratory data analysis, in which I explored the relationship between labels and features
+* Compared the data before and after preprocessing, significantly reduced less informative data like punctuations and stopwords
 For preprocessing I have used methods like
-Lower casing
-Removed stopwords,puntuations
-Performed Stemming(Finding root words like for functioning root word will be function) using nltk's PorterStemmer
-Created sparse matrix using CountVectorizer for vocab size of 6000 features using bag of words and n-grams to extract more details
+* Lower casing
+* Removed stopwords,puntuations
+* Performed Stemming(Finding root words like for functioning root word will be function) using nltk's PorterStemmer
+* Created sparse matrix using CountVectorizer for vocab size of 6000 features using bag of words and n-grams to extract more details
 Train/Test Validation splits
 Finally trained models, tuned them to make final predictions
 MODELS USED
