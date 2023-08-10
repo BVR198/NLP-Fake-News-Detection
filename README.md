@@ -6,7 +6,7 @@ To predict whether news provided is real or fake
 
 DATASET
 
-The Fake News Dataset is from Kaggle
+The Fake News Dataset is from Kaggle https://www.kaggle.com/competitions/fake-news/overview
 
 `DESCRIPTION`
 
