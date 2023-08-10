@@ -1,5 +1,4 @@
-# NLP-Fake-News-Detection
-PROJECT TITLE
+## PROJECT TITLE : NLP-Fake-News-Detection
 
 GOAL
 
@@ -28,11 +27,12 @@ MODELS USED
 
 I have used these models as they perform good classification of text data
 
-Logistic Regression
-Passive Aggressive Classifier
-KNeighbors Classifier
+Decision Tree Classifier
 Random Forest Classifier
-Out of these models I choose Passive Aggresive Classifer as it performed good and handle larges streams of text data very well
+XGBClassifier
+Naive Bayes- MultinomialNB
+
+Out of these models I choose Random Forest Classifier as it performed good and handle larges streams of text data very well
 LIBRARIES NEEDED
 
 scikit-learn
