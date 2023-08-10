@@ -38,7 +38,6 @@ LIBRARIES NEEDED
 
 * scikit-learn
 * nltk
-* wordcloud
 * matplotlib
 * seaborn
 * pandas
