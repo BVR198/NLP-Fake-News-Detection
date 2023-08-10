@@ -22,24 +22,25 @@ For preprocessing I have used methods like
 * Performed `Stemming` (Finding root words like for functioning root word will be function) using `nltk's PorterStemmer`
 * Created sparse matrix using `CountVectorizer` for vocab size of 6000 features using bag of words and n-grams to extract more details
   
-Train/Test Validation splits
+`Train/Test Validation splits`
 Finally trained models, tuned them to make final predictions
+
 MODELS USED
 
 I have used these models as they perform good classification of text data
 
-* Decision Tree Classifier
-* Random Forest Classifier
-* XGBClassifier
-* Naive Bayes- MultinomialNB
+* `Decision Tree Classifier`
+* `Random Forest Classifier`
+* `XGBClassifier`
+* `Naive Bayes- MultinomialNB`
 
 Out of these models I choose Random Forest Classifier as it performed good and handle larges streams of text data very well
 
 LIBRARIES NEEDED
 
-* scikit-learn
-* nltk
-* matplotlib
-* seaborn
-* pandas
-* numpy
+* `scikit-learn`
+* `nltk`
+* `matplotlib`
+* `seaborn`
+* `pandas`
+* `numpy`
