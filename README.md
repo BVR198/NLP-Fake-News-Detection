@@ -27,7 +27,7 @@ MODELS USED
 
 I have used these models as they perform good classification of text data
 
-* Decision Tree Classifier\n
+* Decision Tree Classifier
 * Random Forest Classifier
 * XGBClassifier
 * Naive Bayes- MultinomialNB
