@@ -1,10 +1,10 @@
-## PROJECT TITLE : NLP-Fake-News-Detection
+## `Project Title : NLP-Fake-News-Detection`
 
-GOAL
+`GOAL`
 
 To predict whether news provided is real or fake
 
-DATASET
+`DATASET`
 
 The Fake News Dataset is from Kaggle https://www.kaggle.com/competitions/fake-news/overview
 
@@ -46,7 +46,7 @@ LIBRARIES NEEDED
 * `numpy`
 
 ## `Results`
-* Accuracy_score for Rnadom Forest :  93.9 %
+* Accuracy_score for Random Forest :  93.9 %
 * Accuracy_score for SVM :  93.3 %
 * Accuracy_score for Decision Tree:  92 %
 * Accuracy_score for XGBoost :  92.58 %
